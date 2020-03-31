@@ -1,0 +1,9 @@
+export const FETCH_PLAYLISTS = 'FETCH_PLAYLISTS';
+export const FETCH_PLAYLIST = 'FETCH_PLAYLIST';
+export const FETCH_USER = 'FETCH_USER';
+export const FETCH_TOKEN = 'FETCH_TOKEN';
+export const FETCH_TRACKS = 'FETCH_TRACKS';
+export const FETCH_RELEASES = 'FETCH_RELEASES';
+export const ADD_RELEASE = 'ADD_RELEASE';
+export const REMOVE_TRACK = 'REMOVE_TRACK';
+export const NEW_PLAYLIST = 'NEW_PLAYLIST';

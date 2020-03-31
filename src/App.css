@@ -1,0 +1,57 @@
+.navbar {
+  margin: 20px;
+  padding: 20px;
+  background-color: lightgrey;
+  font-weight: bold;
+
+}
+
+.App {
+  width: 90%;
+  margin: auto;
+  text-align: left;
+}
+
+.playlistdiv {
+  margin: 10px;
+  background-color: white;
+  color:black;
+}
+
+.playlistlink {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+div.playlistdiv:hover {
+  background-color: lightgrey;
+  cursor: pointer;
+}
+.addreleasediv {
+  width: 100%;
+  text-align: center;
+}
+.addreleasetable {
+  width: 100%;
+}
+tr.addreleasetable:hover {
+  background-color: lightgrey;
+}
+
+.yesnodialog {
+  padding-top: 100px;
+  width: 100%;
+  text-align: center;
+}
+
+.yesnodialog table {
+  width: 100%;
+}
+
+.yesnodialog td {
+  text-align: center;
+}
+
+.yesnodialog button {
+  width: 20%;
+}
