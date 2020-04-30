@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "font-awesome": "^4.7.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "react": "^16.2.0",
     "react-bootstrap-table-next": "^4.0.0",
     "react-dom": "^16.2.0",
